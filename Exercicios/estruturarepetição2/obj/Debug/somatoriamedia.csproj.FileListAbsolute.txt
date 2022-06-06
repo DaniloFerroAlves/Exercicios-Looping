@@ -1,0 +1,10 @@
+C:\Users\danilo.falves1\source\repos\somatoriamedia\bin\Debug\somatoriamedia.exe.config
+C:\Users\danilo.falves1\source\repos\somatoriamedia\bin\Debug\somatoriamedia.exe
+C:\Users\danilo.falves1\source\repos\somatoriamedia\bin\Debug\somatoriamedia.pdb
+C:\Users\danilo.falves1\source\repos\somatoriamedia\obj\Debug\somatoriamedia.Form1.resources
+C:\Users\danilo.falves1\source\repos\somatoriamedia\obj\Debug\somatoriamedia.Properties.Resources.resources
+C:\Users\danilo.falves1\source\repos\somatoriamedia\obj\Debug\somatoriamedia.csproj.GenerateResource.cache
+C:\Users\danilo.falves1\source\repos\somatoriamedia\obj\Debug\somatoriamedia.csproj.CoreCompileInputs.cache
+C:\Users\danilo.falves1\source\repos\somatoriamedia\obj\Debug\somatoriamedia.exe
+C:\Users\danilo.falves1\source\repos\somatoriamedia\obj\Debug\somatoriamedia.pdb
+C:\Users\danilo.falves1\source\repos\somatoriamedia\obj\Debug\somatoriamedia.csproj.AssemblyReference.cache

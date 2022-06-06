@@ -1,0 +1,9 @@
+C:\Users\danilo.falves1\source\repos\estruturarepetição7\bin\Debug\estruturarepetição7.exe.config
+C:\Users\danilo.falves1\source\repos\estruturarepetição7\bin\Debug\estruturarepetição7.exe
+C:\Users\danilo.falves1\source\repos\estruturarepetição7\bin\Debug\estruturarepetição7.pdb
+C:\Users\danilo.falves1\source\repos\estruturarepetição7\obj\Debug\estruturarepetição7.Form1.resources
+C:\Users\danilo.falves1\source\repos\estruturarepetição7\obj\Debug\estruturarepetição7.Properties.Resources.resources
+C:\Users\danilo.falves1\source\repos\estruturarepetição7\obj\Debug\estruturarepetição7.csproj.GenerateResource.cache
+C:\Users\danilo.falves1\source\repos\estruturarepetição7\obj\Debug\estruturarepetição7.csproj.CoreCompileInputs.cache
+C:\Users\danilo.falves1\source\repos\estruturarepetição7\obj\Debug\estruturarepetição7.exe
+C:\Users\danilo.falves1\source\repos\estruturarepetição7\obj\Debug\estruturarepetição7.pdb

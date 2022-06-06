@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadradoint", "Quadradoint.csproj", "{DE304EC2-D3F4-4CA9-B7B4-DF353A909BE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE304EC2-D3F4-4CA9-B7B4-DF353A909BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE304EC2-D3F4-4CA9-B7B4-DF353A909BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE304EC2-D3F4-4CA9-B7B4-DF353A909BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE304EC2-D3F4-4CA9-B7B4-DF353A909BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2979C605-A353-4656-9B07-F2E13F29BB43}
+	EndGlobalSection
+EndGlobal

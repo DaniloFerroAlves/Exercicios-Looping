@@ -1,0 +1,10 @@
+C:\Users\danilo.falves1\source\repos\estruturarepetição5\bin\Debug\estruturarepetição5.exe.config
+C:\Users\danilo.falves1\source\repos\estruturarepetição5\bin\Debug\estruturarepetição5.exe
+C:\Users\danilo.falves1\source\repos\estruturarepetição5\bin\Debug\estruturarepetição5.pdb
+C:\Users\danilo.falves1\source\repos\estruturarepetição5\obj\Debug\estruturarepetição5.Form1.resources
+C:\Users\danilo.falves1\source\repos\estruturarepetição5\obj\Debug\estruturarepetição5.Properties.Resources.resources
+C:\Users\danilo.falves1\source\repos\estruturarepetição5\obj\Debug\estruturarepetição5.csproj.GenerateResource.cache
+C:\Users\danilo.falves1\source\repos\estruturarepetição5\obj\Debug\estruturarepetição5.csproj.CoreCompileInputs.cache
+C:\Users\danilo.falves1\source\repos\estruturarepetição5\obj\Debug\estruturarepetição5.exe
+C:\Users\danilo.falves1\source\repos\estruturarepetição5\obj\Debug\estruturarepetição5.pdb
+C:\Users\danilo.falves1\source\repos\estruturarepetição5\obj\Debug\estruturarepetição5.csproj.AssemblyReference.cache

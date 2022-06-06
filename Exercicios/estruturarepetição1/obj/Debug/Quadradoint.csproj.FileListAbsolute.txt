@@ -1,0 +1,10 @@
+C:\Users\danilo.falves1\source\repos\Quadradoint\bin\Debug\Quadradoint.exe.config
+C:\Users\danilo.falves1\source\repos\Quadradoint\bin\Debug\Quadradoint.exe
+C:\Users\danilo.falves1\source\repos\Quadradoint\bin\Debug\Quadradoint.pdb
+C:\Users\danilo.falves1\source\repos\Quadradoint\obj\Debug\Quadradoint.csproj.AssemblyReference.cache
+C:\Users\danilo.falves1\source\repos\Quadradoint\obj\Debug\Quadradoint.Form1.resources
+C:\Users\danilo.falves1\source\repos\Quadradoint\obj\Debug\Quadradoint.Properties.Resources.resources
+C:\Users\danilo.falves1\source\repos\Quadradoint\obj\Debug\Quadradoint.csproj.GenerateResource.cache
+C:\Users\danilo.falves1\source\repos\Quadradoint\obj\Debug\Quadradoint.csproj.CoreCompileInputs.cache
+C:\Users\danilo.falves1\source\repos\Quadradoint\obj\Debug\Quadradoint.exe
+C:\Users\danilo.falves1\source\repos\Quadradoint\obj\Debug\Quadradoint.pdb
